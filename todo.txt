@@ -1,2 +1,23 @@
-- ReactJs
-- Python
+### ReactJS
+- Introduction to JSX
+- Components and Props
+- State and Lifecycle
+- Handling Events
+- Conditional Rendering
+- Lists and Keys
+- Forms
+- Lifting State Up
+- Composition vs Inheritance
+- React Router
+
+### Python
+- Basic Syntax and Data Types
+- Control Flow (if statements, loops)
+- Functions and Modules
+- File Handling
+- Exception Handling
+- Object-Oriented Programming
+- Libraries and Packages (e.g., NumPy, Pandas)
+- Working with APIs
+- Web Development (Flask/Django)
+- Testing and Debugging
